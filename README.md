@@ -23,8 +23,8 @@ I'm Revaha. I talk to databases for my web applications.<br>
 <a href="https://github.com/PhyeX" target="_blank" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.hackerrank.com/rtb_barbaros" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
 </a>
-<a><img src="https://www.codewars.com/users/PhyeX/badges/micro"></a>
-<a href ="www.leetcode/PhyeX"><img src = "https://img.shields.io/badge/PhyeX-LeetCode-orange?style=for-the-badge&logo=leetcode"></a>  
+<a  href ="https://www.codewars.com/users/PhyeX" target="_blank"><img src="https://www.codewars.com/users/PhyeX/badges/micro"></a>
+<a href ="https://leetcode.com/PhyeX/" target="_blank"><img src = "https://img.shields.io/badge/PhyeX-LeetCode-orange?style=for-the-badge&logo=leetcode"></a>  
 
 
 - 👯 I’m looking for internship
