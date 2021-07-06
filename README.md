@@ -29,9 +29,6 @@ I'm Revaha. I talk to databases for my web applications.<br>
 <a  href ="https://www.codewars.com/users/PhyeX" target="_blank"><img src="https://www.codewars.com/users/PhyeX/badges/micro"></a>
 <a href ="https://leetcode.com/PhyeX/" target="_blank"><img src = "https://img.shields.io/badge/PhyeX-LeetCode-orange?style=for-the-badge&logo=leetcode"></a>  
 
-
-- 👯 I’m looking for internship
-
 - 📫 How to reach me: 
 - <a href="https://www.linkedin.com/in/r-tayyip-barbaros-7b2725210/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
