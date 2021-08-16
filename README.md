@@ -1,7 +1,7 @@
 ### Hi there 👋
  
-I'm Revaha. I talk to databases for my web applications.<br>
--🌱 I'm currently learning Java,Spring Boot,Javascript and whatever interest me 
+I'm Revaha.I’m currently working on Backend Web Technologies.<br>
+-🌱 I'm currently learning PHP,Spring Boot,Javascript and whatever interest me 
 
 ## Languages and Tools :
 <p>
