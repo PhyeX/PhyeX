@@ -1,7 +1,8 @@
 ### Hi there 👋
  
-I'm Revaha.I’m currently working on Backend Web Technologies.<br>
--🌱 I'm currently learning PHP,Javascript and whatever interest me 
+I'm Revaha.I'm currently working on Backend Web Technologies.<br>
+-🌱 Nowadays I'm learning PHP,Laravel and whatever interest me.
+
 
 ## Languages and Tools :
 <p>
