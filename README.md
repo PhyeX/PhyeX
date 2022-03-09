@@ -1,7 +1,7 @@
 ### Hi there 👋
  
 I'm Revaha.I'm currently working on Backend Web Technologies.<br>
--🌱 Nowadays I'm learning PHP,Laravel.
+-🌱 Nowadays I'm learningand working on SAP Hybris.
 
 ## Languages and Tools :
 <p>
